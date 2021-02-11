@@ -4,162 +4,162 @@
       "name": "Ağrı Dağı",
       "altitude": 5137,
       "location": "Doğubayazıt, Ağrı",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1"
     },
      {
       "name": "Cilo Dağı",
       "altitude": 4170,
       "location": "Hakkari",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Cilo_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Cilo_Da%C4%9F%C4%B1"
     },
     {
       "name": "Süphan Dağı",
       "altitude": 4049,
       "location": "Bitlis",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/S%C3%BCphan_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/S%C3%BCphan_Da%C4%9F%C4%B1"
     },
     {
       "name": "Kaçkar Dağı",
       "altitude": 3932,
       "location": "Rize",
-      "geo-area": "Karadeniz Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Ka%C3%A7kar_Da%C4%9F%C4%B1"
+      "geo_area": "Karadeniz Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Ka%C3%A7kar_Da%C4%9F%C4%B1"
     },
     {
       "name": "Erciyes Dağı",
       "altitude": 3916,
       "location": "Kayseri",
-      "geo-area": "İç Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Erciyes_Da%C4%9F%C4%B1"
+      "geo_area": "İç Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Erciyes_Da%C4%9F%C4%B1"
     },
     {
       "name": "Küçükağrı Dağı",
       "altitude": 3896,
       "location": "Doğubayazıt, Ağrı",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCka%C4%9Fr%C4%B1_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCka%C4%9Fr%C4%B1_Da%C4%9F%C4%B1"
     },
      {
       "name": "Kızılkaya Dağı",
       "altitude": 3767,
       "location": "Niğde",
-      "geo-area": "İç Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkaya_Da%C4%9F%C4%B1"
+      "geo_area": "İç Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkaya_Da%C4%9F%C4%B1"
     },
     {
       "name": "Demirkazık Dağı",
       "altitude": 3756,
       "location": "Niğde",
-      "geo-area": "İç Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Demirkaz%C4%B1k_Da%C4%9F%C4%B1"
+      "geo_area": "İç Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Demirkaz%C4%B1k_Da%C4%9F%C4%B1"
     },
     {
       "name": "Artos Dağı",
       "altitude": 3550,
       "location": "Van",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Artos_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Artos_Da%C4%9F%C4%B1"
     },
     {
       "name": "Mercan Dağları",
       "altitude": 3549,
       "location": "Erzincan",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Mercan_Da%C4%9Flar%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Mercan_Da%C4%9Flar%C4%B1"
     },
      {
       "name": "Tendürek Dağı",
       "altitude": 3533,
       "location": "Doğubayazıt, Ağrı",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Tend%C3%BCrek_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Tend%C3%BCrek_Da%C4%9F%C4%B1"
     },
     {
       "name": "Koçbaşı Dağı",
       "altitude": 3510,
       "location": "Taşlıçay, Ağrı",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": ""
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": ""
     },
     {
       "name": "Aydos Dağı",
       "altitude": 3430,
       "location": "Konya",
-      "geo-area": "İç Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Aydos_Da%C4%9F%C4%B1,_Konya"
+      "geo_area": "İç Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Aydos_Da%C4%9F%C4%B1,_Konya"
     },
     {
       "name": "Medetsiz Dağı",
       "altitude": 3524,
       "location": "Adana",
-      "geo-area": "Akdeniz Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Medetsiz_Da%C4%9F%C4%B1"
+      "geo_area": "Akdeniz Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Medetsiz_Da%C4%9F%C4%B1"
     },
     {
       "name": "Kösedağ",
       "altitude": 3340,
       "location": "Eleşkirt, Ağrı",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F"
     },
      {
       "name": "Hasan Dağı",
       "altitude": 3268,
       "location": "Aksaray",
-      "geo-area": "İç Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Hasan_Da%C4%9F%C4%B1"
+      "geo_area": "İç Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Hasan_Da%C4%9F%C4%B1"
     },
     {
       "name": "Kısır Dağı",
       "altitude": 3200,
       "location": "Ardahan",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/K%C4%B1s%C4%B1r_Da%C4%9F%C4%B1_(Ardahan)"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/K%C4%B1s%C4%B1r_Da%C4%9F%C4%B1_(Ardahan)"
     },
      {
       "name": "Palandöken Dağı",
       "altitude": 3176,
       "location": "Erzurum",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Paland%C3%B6ken_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Paland%C3%B6ken_Da%C4%9F%C4%B1"
     },
     {
       "name": "Ulubaba Dağı",
       "altitude": 2397,
       "location": "Malatya",
-      "geo-area": "Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Ulubaba_Da%C4%9F%C4%B1"
+      "geo_area": "Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Ulubaba_Da%C4%9F%C4%B1"
     },
     {
       "name": "Berit Dağı",
       "altitude": 3054,
       "location": "Elbistan, Kahramanmaraş",
-      "geo-area": "Akdeniz Bölgesi",
-      "wiki-link": ""
+      "geo_area": "Akdeniz Bölgesi",
+      "wiki_link": ""
     },
     {
       "name": "Nurhak Dağı",
       "altitude": 3000,
       "location": "Kahramanmaraş",
-      "geo-area": "Akdeniz Bölgesi",
-      "wiki-link": ""
+      "geo_area": "Akdeniz Bölgesi",
+      "wiki_link": ""
     },
      {
       "name": "Nemrut Dağı",
       "altitude": 2150,
       "location": "Adıyaman",
-      "geo-area": "Güney Doğu Anadolu Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Nemrut_Da%C4%9F%C4%B1"
+      "geo_area": "Güney Doğu Anadolu Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Nemrut_Da%C4%9F%C4%B1"
     },
     {
       "name": "Uludağ",
       "altitude": 2543,
       "location": "Bursa",
-      "geo-area": "Marmara Bölgesi",
-      "wiki-link": "https://tr.wikipedia.org/wiki/Uluda%C4%9F"
+      "geo_area": "Marmara Bölgesi",
+      "wiki_link": "https://tr.wikipedia.org/wiki/Uluda%C4%9F"
     }
   ]
 }
