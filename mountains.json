@@ -1,5 +1,5 @@
 {
-    "world_mountains": [
+    "mountains_world": [
         {
             "name": "Everest",
             "altitude": 8848,
@@ -1191,7 +1191,7 @@
             "country": "Pakistan"
         }
   ],
-	"turkey_mountains": [
+	"mountains_turkey": [
 		{
 			"name": "Ağrı Dağı",
 			"altitude": 5137,
