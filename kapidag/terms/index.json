@@ -1,0 +1,298 @@
+{
+    "terms_climbing": [
+        {
+            "english": "Abseil",
+            "turkish": "İp boyu iniş",
+            "turkish_explanation": "Tırmanıcının sabit ip ile gerçekleştirdiği iniş süreci"
+        },
+        {
+            "english": "Adze",
+            "turkish": "Keser ağzı",
+            "turkish_explanation": "Buz baltasının sapına dik kesici ağzı olan ve ayağın basıp tutunabileceği yer kazmaya yarayan balta dili."
+        },
+        {
+            "english": "Aid climbing",
+            "turkish": "-",
+            "turkish_explanation": "Önceden yerleştirilmiş koruyucu veya yardımcı alet edavata bağlanarak sağlama alma veya tutunarak kendini yukarı çekme temelli tırmanma usulü."
+        },
+        {
+            "english": "Alpine climbing",
+            "turkish": "-",
+            "turkish_explanation": "Geleneksel dağa tırmanma; yüksek ihtimalle biraz buz, biraz kuru kaya içeren güzrgahlarda, gereken her şeyi üzerinde taşıyarak, bazen gecelemeli tırmanma usulü."
+        },
+        {
+            "english": "Alpine start",
+            "turkish": "-",
+            "turkish_explanation": "Akşamdan her şeyi hazır edip sabah erken güneş doğmadan tırmanmak için yola çıkmak."
+        },
+        {
+            "english": "American death triangle",
+            "turkish": "Amerikan ölüm üçgeni",
+            "turkish_explanation": "İp halkasını iki nokta arasına asıp daha sonra tırmanma (ya da iniş) ipini halkanın sadece bir kenarına tutturmak. Bu durumda tırmanma ipine yük bindiğinde halka bir üçgen oluşturur ve tutunma noktalarına gereksizce büyük kuvvetler yükler ve tepeye tutunma düzeneğinin güvenilirliğini azaltır, tehlikelidir."
+        },
+        {
+            "english": "Approach",
+            "turkish": "-",
+            "turkish_explanation": "Asıl tırmanmanın başlayacağı noktaya yaklaşma güzegahı; sadece yürüyüş gerektirse bile genellikle tırmanmanın kendisi kadar tehlikeli olabilir."
+        },
+        {
+            "english": "Arête",
+            "turkish": "Basamak, tutanak,",
+            "turkish_explanation": "Dik kaya yüzeyinin dışa doğru dar açılı çıkıntısı Buz aşındırmasıyla oluşan sivri/keskin bir kaya kenarı Suni tırmanma duvarında bÿle bir çıkıntıya tutunarak tırmanma usulü. (Tersi yani dar bir yarığa ya da girintiye tutunarak tırmanma usulü de vardır)."
+        },
+        {
+            "english": "Arm bar",
+            "turkish": "Kolu çatlağa kilitlemek",
+            "turkish_explanation": "Dar kaya çatlağına tutunma yöntemi."
+        },
+        {
+            "english": "Arqué",
+            "turkish": "Parmak ucuyla tutunmak",
+            "turkish_explanation": "Parmakların ilk eklemleri açık ve çok gergin, son eklemleri 90 derece bükük şekilde tutunmak. Bu yöntem kasları parmağa bağlayan tendonlara fazla kuvvet ve yumuşak parmak uçlarına çok basınç yükler, ve çok kullanıldığında zedelenmelere, sakatlıklara sebep olmasıyla bilinir."
+        },
+        {
+            "english": "Ascender",
+            "turkish": "Yükseltici",
+            "turkish_explanation": "İpi tutmaya yarayan, kendini çektikten sonra kolayca ip boyu yeri değiştirilebilen alet"
+        },
+        {
+            "english": "ATC",
+            "turkish": "ATC",
+            "turkish_explanation": "Black Diamond firmasının kontrollü indirme cihazı adının alet çeşidi adı olmuş hali (ATC aslında Hava trafik kontrolü yani havaalanı kulesindekilerin yaptığı işin adı idi)"
+        },
+        {
+            "english": "Austrian floss",
+            "turkish": "-",
+            "turkish_explanation": "Tırmanıcının düşmesi durumunda ipin bacaklar arasında dolalı gerilip kemer yerine ipe yük bindirerek düşüşü durdurması."
+        },
+        {
+            "english": "\"B\"-grade",
+            "turkish": "-",
+            "turkish_explanation": "John Gill adlı tırmanıcının buluşu tırmanma zorluğu ölçümü derecelemesinde bir değer. Şimdilerde daha çok \"V\" grading system kullanılır."
+        },
+        {
+            "english": "Bachar ladder",
+            "turkish": "-",
+            "turkish_explanation": "İç kasları luvvetlendiren idman aleti"
+        },
+        {
+            "english": "Back-clipping",
+            "turkish": "-",
+            "turkish_explanation": "Liderli tırmanmada tehlikeli bir hata. Liderin emniyet ipi kaya yüzeyinde asılı bir karabinaya dıştan içeriye doğru yükselen yönde, dil altından geçirilmişse, Liderin düşme durumunda emniyet ipi karabinanın dili etrafında içerden dışarıya doğru dolanıp yüklenebilir, dil içeriye doğru açılabilir, ve ip karabinadan kurtulabilir."
+        },
+        {
+            "english": "Bail",
+            "turkish": "-",
+            "turkish_explanation": "Cayıp tırmanmadan geri dönme"
+        },
+        {
+            "english": "Barn-door",
+            "turkish": "-",
+            "turkish_explanation": "Bütün vücudun bir eksen etrafında ahır kapısı gibi kontrolsüz dönmesi"
+        },
+        {
+            "english": "Bashie",
+            "turkish": "-",
+            "turkish_explanation": "Bakır başlıklı çatlak kazığı"
+        },
+        {
+            "english": "Belay",
+            "turkish": "-",
+            "turkish_explanation": "Tırmananın düşmesi durumunda sürtünmeyle ÿavaşlatmak ve durdurmak temelli emniyet ipinin öbür ucundan kontrolü; bu amaçlı aletler den önce ip yardımcının kalçasına sarılır, sürtünme ile frenleme sağlanırdı."
+        },
+        {
+            "english": "Belay device",
+            "turkish": "İp fireni",
+            "turkish_explanation": "Düşme durumunda sürtünmeyle frenlemek, ÿavaşlatmak ve durdurmaya yarayan mekanik alet.Birçok çeşitleri vardır; ATC, grigri, Reverso, Sticht plate, sekizli ve tuber. Birçoğu indirici olarak da kullanılabilir. Bazen munter bağı da ip fireni olarak kullanılabilir."
+        },
+        {
+            "english": "Belay Loop",
+            "turkish": "İp fireni halkası",
+            "turkish_explanation": "kemer ve koşum ¨zerindeki en kuvvetli halka. Oraya başka şeylerde bağlamak, eskitmek, iyi olmaz."
+        },
+        {
+            "english": "Belay off",
+            "turkish": "-",
+            "turkish_explanation": "Frenin kaldırılması isteğinde cevaben Yardımcının ipte artık firen olmadığını tasdik eden doğrulayan sözleri."
+        },
+        {
+            "english": "Belay on",
+            "turkish": "-",
+            "turkish_explanation": "Tırmanıcının yardımcıdan firenin ipten kaldırılması isteği"
+        },
+        {
+            "english": "Belay slave",
+            "turkish": "Firen kölesi",
+            "turkish_explanation": "Devamlı yardımcılık yaptırılan, hiç tırmanma faaliyetlerine katılamayan"
+        },
+        {
+            "english": "Benightment: An unscheduled overnight bivouac often due to an epic.",
+            "turkish_explanation": "Plansız geceleme çadır veya sığınağı"
+        },
+        {
+            "english": "Bergschrund (or schrund)",
+            "turkish": "-",
+            "turkish_explanation": "Buzulda bir yarık tipi"
+        },
+        {
+            "english": "Beta",
+            "turkish": "-",
+            "turkish_explanation": "Zor bir tırmanma güzergahını başarıyla tamamlamanın püf noktaları; bilindiğinde güzergahın değer kaybettiğini düşünenler vardır."
+        },
+        {
+            "english": "Beta flash",
+            "turkish": "-",
+            "turkish_explanation": "Püf noktalarını duyup tırmanma güzergahını ilk denemede başarıyla tamamlama."
+        },
+        {
+            "english": "Bidoigt",
+            "turkish": "-",
+            "turkish_explanation": "Ancak iki parmağın sığabileceği tutanak deliği"
+        },
+        {
+            "english": "Big wall",
+            "turkish": "-",
+            "turkish_explanation": "Bir günde tırmanılamayacak dolayısıyla¨gecelemek için gerekli malzemelerinde tırmanılan ara noktalara torbalarla çıkarıldığı tırmanma güzergâhı"
+        },
+        {
+            "english": "Carabiner",
+            "turkish": "Karabina",
+            "turkish_explanation": "Açıldığında kanca, kapandığında halka işlevi gören, bir çeşit köstek. Normalde halka olarak kullanılıp, sadece anlık ve geçici olarak kanca olması, yaylı, kendiliğinden kapanan kapısıyla hızlı kullanım kolaylığı sağlaması, bir de kazaen açılmaya karşı tedbirleri varoluş sebebidir."
+        },
+        {
+            "english": "Descender",
+            "turkish": "Sekizli",
+            "turkish_explanation": "metalden sekiz rakamına benzer şekilli, sürtünme ile yardımcının yol katedildiğinde ip sugalamasını, düşme durumunda ise durdurmasını kolaylaştıran alet."
+        },
+        {
+            "english": "Friend",
+            "turkish": "-",
+            "turkish_explanation": "Wild Country firması ürünü bir çeşit yaylı takoz; Bazen her çeşit yaylı takoz için kullanılır."
+        },
+        {
+            "english": "Gaston",
+            "turkish": "-",
+            "turkish_explanation": "Başparmak aşağıya dönük, dirsek dışarıda, dirsek yönünde kuvvet kullanarak ters tırmanma tutunması."
+        },
+        {
+            "english": "Gate Flutter",
+            "turkish": "-",
+            "turkish_explanation": "Karabinanın dilinin düşüş sırasında kendiliğinden açılması"
+        },
+        {
+            "english": "Gendarme",
+            "turkish": "-",
+            "turkish_explanation": "Sırtta yalnız duran ve zirve oluşturan kulemsi kaya."
+        },
+        {
+            "english": "Geneva rappel",
+            "turkish": "-",
+            "turkish_explanation": "İpin omuz ve göğüs yerine kalçaya ve aşağıya uzanan kola sürtünmesi temelli, daha basit ama daha az kontrol sağlayan bir ipte iniş usulü."
+        },
+        {
+            "english": "Glacier travel",
+            "turkish": "-",
+            "turkish_explanation": "Buzul üzerinde hareket; yarıklara düşme tehlikesine karşı düşme durudurucu ip kullanılır."
+        },
+        {
+            "english": "Glissade",
+            "turkish": "-",
+            "turkish_explanation": "Dikçe bir karlı yamaçtan aşağı genellikle kendi kararıyla kayarak inmek."
+        },
+        {
+            "english": "Golden Retriever",
+            "turkish": "-",
+            "turkish_explanation": "Güzergâhı temizleyen bir tırmanıcının bir parçayı çıkartmayı, ya da ipi bir karabinadan kurtarmayı unutup yukarı tırmanması, böylece tepe ipini faydasız hale düşürmesi."
+        },
+        {
+            "english": "Gorp",
+            "turkish": "-",
+            "turkish_explanation": "Yol çerezi, uzun güzergahlarda yemek arası yol boyu az az atıştırılan, yüksek enerji seviyesi sağlamak için yenen karışım."
+        },
+        {
+            "english": "Graunchy",
+            "turkish": "-",
+            "turkish_explanation": "Alışılmadık ve zahmetli teknikler gerektiren tırmanma güzergâhı"
+        },
+        {
+            "english": "Green Point",
+            "turkish": "-",
+            "turkish_explanation": "Geleneksel alet edavatla bir spor güzergahını tırmanma"
+        },
+        {
+            "english": "Grigri",
+            "turkish": "-",
+            "turkish_explanation": "Petzl firması ürünü, acemilere uygun kullanılışlı ve güvenilir bir ip freni."
+        },
+        {
+            "english": "Gronked",
+            "turkish": "-",
+            "turkish_explanation": "Kararlaştırılan güzergahtan yanlışlıkla kaya yüzeyinde çok daha zor bir yöne sapmak. Sık sık bu hatanın yapıldığı bir güzergahın adından türetilmiş terim."
+        },
+        {
+            "english": "Grovel",
+            "turkish": "-",
+            "turkish_explanation": "Usulü ve tekniği yetersiz bir şekilde tırmanmak Düşük değerli bir tırmanma güzergahı"
+        },
+        {
+            "english": "Gumby",
+            "turkish": "-",
+            "turkish_explanation": "Tecrübesiz, bilgisiz ve ilgisiz bir tırmanıcı; öğrenme kabiliyeti yetersiz. Aşağılayıcı bir terim."
+        },
+        {
+            "english": "Gym climbing",
+            "turkish": "-",
+            "turkish_explanation": "Spor salonunda suni tırmanma duvarına idman için tırmanmak. Bazıları bunun kendi başına bir spor dalı olduğunu düşünür."
+        },
+        {
+            "english": "Grease ball",
+            "turkish": "-",
+            "turkish_explanation": "Tırmanıla tırmanıla aşınmış, kayganlaşmış bir güzergah."
+        },
+        {
+            "english": "HACE",
+            "turkish": "-",
+            "turkish_explanation": "Zorlu, çoğu kez can alıcı bir irtifa hastalığı; Beyin ödemi"
+        },
+        {
+            "english": "Hamster",
+            "turkish": "-",
+            "turkish_explanation": "Kollar önde paralel, kendini yukarı çekme"
+        },
+        {
+            "english": "Handjam",
+            "turkish": "-",
+            "turkish_explanation": "Eli yarığa başparmak üstte sokup başparmağı avuca doğru çekerek eli kalınlaştırıp tutunmak, buna yüklenerek yol almak. 1940 ve 50 li yıllarda İngiltere de  Joe Brown ve Don Whillans tarafından icad edilmediyse de kullanılmıştır."
+        },
+        {
+            "english": "Quicklink, maillon, maillon rapide, shackle",
+            "turkish": "Köstek",
+            "turkish_explanation": "U veya C harfi şeklinde bir metalin açık kenarının vidalanmasıyla halka haline getirilen, zincirlerin uzatılması, bir şeylerin sağlamca tutturulması, asılması, eklenmesi işlerini kolaylaştırıp hızlandıran hırdavat ya da nalburiye malzemesidir"
+        },
+        {
+            "english": "Rope",
+            "turkish": "Halat ya da ip",
+            "turkish_explanation": "Doğal ya da yapay elyafın ya da tellerin bükülmesi ya da şerit biçiminde örülmesi yoluyla elde edilen uzun, esnek ve sağlam ip. Halatlarda aranan başlıca özellikler büküldüğünde, burkulduğunda ya da çekildiğinde yapısının bozulmaması ve sağlamlığını korumasıdır. En önemli özelliği ise çekme dayanımıdır. Tırmanılabilir ortam veya düşmeye karşı can güvenliği için kullanılır."
+        },
+        {
+            "english": "Yard up",
+            "turkish": "Hızlı çıkma",
+            "turkish_explanation": "Tırmanma yerine ipi tutanın yardımıyla çabucak yükselmek. Bu gereksiz zorluktaki bir bölümü aşmada ya da düşme sonrası hata noktasına tekrar dönmede kullanılır."
+        },
+        {
+            "english": "Yosemite Decimal System",
+            "turkish": "Yosemite onlu sistemi",
+            "turkish_explanation": "Tırmanma zorluk ölçüsü, en kolay 5, kasım 2013 itibarıyla en zor 5.15C dir. Amerikada kullanılır."
+        },
+        {
+            "english": "Zipper fall",
+            "turkish": "Peş peşe düşüş",
+            "turkish_explanation": "Tırmanma güvenlik halatının bağlı olduğu noktaların ip gerildiğinde peş peşe kurtulmalarının görüldüğü düşme. Bu bazen en alt noktadan yukarı doğru sırayla olur çünkü ipin aşağı çekeceği varsayılmış, noktalar yukarı çekmeye hazırlıksız sabitleştirilmiştir."
+        },
+        {
+            "english": "Z-pulley",
+            "turkish": "Z-sistemi",
+            "turkish_explanation": "Bir yarığa düşmüş tırmanıcıyı kolayca yukarı çekmek için gereken, kuvvet katlayıcı ve Kamyoncu düğümü benzeri prensiple çalışan halat ve makara düzeneği."
+        }
+    ]
+}
